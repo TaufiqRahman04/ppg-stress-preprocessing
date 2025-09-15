@@ -1,5 +1,5 @@
 # ppg-stress-preprocessing
-A project focusing on pre-processing PPG signals for stress detection. Includes filtering, noise removal, and signal preparation pipeline for machine learning classification
+A project focusing on pre-processing PPG signals for stress detection. Includes filtering, noise removal, and signal preparation pipeline for machine learning classification. This project was developed as part of my undergraduate final thesis.
 
 
 Resource
